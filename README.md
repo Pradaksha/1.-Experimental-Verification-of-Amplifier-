@@ -82,16 +82,14 @@ Inverting amplifier:
 
 ## TABULATION
 
-| S.No | Vin (V) | Time (ms) | Vo = Vin[-(Rf / R1)] (V) | Theoretical | Practical |
-|------|----------|-----------|------------------------------|--------------|------------|
-| 1 | | | | | |
-| 2 | | | | | |
-| 3 | | | | | |			
+![WhatsApp Image 2025-11-20 at 23 01 10_4b39ce14](https://github.com/user-attachments/assets/a8028bcb-8878-4520-aefc-db7f2af71ca9)
+	
  
 
 
 ---
 ## OUT PUT WAVEFORM AND DISCUSSION 
+![WhatsApp Image 2025-11-20 at 23 02 14_a23698b7](https://github.com/user-attachments/assets/7920c21e-798e-45bf-8097-c6c8ef2cad2d)
 
 
 ---
@@ -129,15 +127,13 @@ PROCEDURE:
 7. Plot the input vs. output waveform for one practical case.
 
 ## TABULATION
+![WhatsApp Image 2025-11-20 at 23 03 04_95985fa1](https://github.com/user-attachments/assets/77d0032d-8fb5-4723-aae3-8780a6fd3e71)
 
-| S.No | Vin (V) | Time (ms) | Vo = Vin[1 + (Rf / R1)] (V) | Theoretical | Practical |
-|------|----------|-----------|------------------------------|--------------|------------|
-| 1 | | | | | |
-| 2 | | | | | |
-| 3 | | | | | |
 
 ---
 ## OUT PUT WAVEFORM AND DISCUSSION 
+![WhatsApp Image 2025-11-20 at 23 04 01_786492d9](https://github.com/user-attachments/assets/5b2b6cb3-6bf3-408d-82f0-7dea6925ecf3)
+![WhatsApp Image 2025-11-20 at 23 04 33_cbffbd78](https://github.com/user-attachments/assets/318c4d27-2950-4c9a-9726-36166f63a809)
 
 
 ---
@@ -186,14 +182,12 @@ Choose  R1 = 1kOhm, Rf = 10kOhm
 
 ## TABULATION (Differential Amplifier)
 
-| S.No | V1 (V) | V2 (V) | Vo = (-Rf/R1)(V1 - V2) (V) | Theoretical | Practical |
-|------|---------|---------|-----------------------------|--------------|------------|
-| 1 | | | | | |
-| 2 | | | | | |
-| 3 | | | | | |
+![WhatsApp Image 2025-11-20 at 23 05 19_56220aaf](https://github.com/user-attachments/assets/48f9e4c2-1eb2-4648-a390-72b4f7e5283a)
+
 
 ---
 ## OUT PUT WAVEFORM AND DISCUSSION 
+![WhatsApp Image 2025-11-20 at 23 05 47_2acb288e](https://github.com/user-attachments/assets/71cd0d4c-06f1-4233-abf8-d9a6f1d13672)
 
 
 ---
@@ -225,14 +219,12 @@ PROCEDURE:
 
 ## TABULATION (Instrumentation Amplifier)
 
-| S.No | V1 (V) | V2 (V) | Vo = (Rf / R1) [1 + (2R’ / R)] (V2 – V1) (V) | Theoretical | Practical |
-|------|---------|---------|----------------------------------------------|--------------|------------|
-| 1 | | | | | |
-| 2 | | | | | |
-| 3 | | | | | |
+![WhatsApp Image 2025-11-20 at 23 06 33_f5646d4b](https://github.com/user-attachments/assets/7f78a341-b94c-454d-83e2-2968f91ae7ab)
+
 
 ---
 ## OUT PUT WAVEFORM AND DISCUSSION 
+![WhatsApp Image 2025-11-20 at 23 07 12_bbcb564b](https://github.com/user-attachments/assets/7dd46b0b-83cf-4082-a644-b9fa9157b928)
 
 
 ---
