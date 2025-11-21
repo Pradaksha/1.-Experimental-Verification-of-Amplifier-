@@ -1,5 +1,5 @@
 #**EX.NO:** 1  # EXPERIMENTAL VERIFICATION OF AMPLIFIER INVERTING, NON INVERTING , DIFFERENTIAL AMPLIFIER AND INSTRUMENTATION AMPLIFIERS
-**DATE:**  
+**DATE:
 ---
 
 ## AIM
@@ -82,17 +82,13 @@ Inverting amplifier:
 
 ## TABULATION
 
-| S.No | Vin (V) | Time (ms) | Vo = Vin[-(Rf / R1)] (V) | Theoretical | Practical |
-|------|----------|-----------|------------------------------|--------------|------------|
-| 1 | | | | | |
-| 2 | | | | | |
-| 3 | | | | | |			
+![WhatsApp Image 2025-11-20 at 23 01 11_008e864d](https://github.com/user-attachments/assets/c6d1e2e8-5d6a-4652-a3ed-f4a2006beebd)
+		
  
-
 
 ---
 ## OUT PUT WAVEFORM AND DISCUSSION 
-
+![WhatsApp Image 2025-11-20 at 23 02 15_1a643098](https://github.com/user-attachments/assets/3449afaf-ffcd-4447-82af-03c7b16b1df2)
 
 ---
 ### **Non-Inverting Amplifier**
@@ -130,14 +126,12 @@ PROCEDURE:
 
 ## TABULATION
 
-| S.No | Vin (V) | Time (ms) | Vo = Vin[1 + (Rf / R1)] (V) | Theoretical | Practical |
-|------|----------|-----------|------------------------------|--------------|------------|
-| 1 | | | | | |
-| 2 | | | | | |
-| 3 | | | | | |
+![WhatsApp Image 2025-11-20 at 23 03 05_29b2695d](https://github.com/user-attachments/assets/1d26d730-6edf-4a37-889c-b46fed0efbcd)
+
 
 ---
 ## OUT PUT WAVEFORM AND DISCUSSION 
+![WhatsApp Image 2025-11-20 at 23 04 34_bf86e5e8](https://github.com/user-attachments/assets/b21e9704-5edd-4524-bca1-b00317ccd775)
 
 
 ---
@@ -158,7 +152,7 @@ A = Vo/{V2 - V1} = -Rf/R1
 ---
 
 ## DESIGN
-
+vo=(-Rf/R1)(v1-v2)volts v1=0.5 v2=1 Rf=100 Ri=100
 
 ### **Differential Amplifier**
 
@@ -170,9 +164,6 @@ Take  A = 10
 Choose  R1 = 1kOhm, Rf = 10kOhm
 
 ---
-
-
-
 ## PROCEDURE (Differential Amplifier)
 1. Select  R1, R2, R3, Rf  such that R1 = R2  and  R3 = Rf .  
 2. Connect the circuit as per the circuit diagram.  
@@ -186,32 +177,27 @@ Choose  R1 = 1kOhm, Rf = 10kOhm
 
 ## TABULATION (Differential Amplifier)
 
-| S.No | V1 (V) | V2 (V) | Vo = (-Rf/R1)(V1 - V2) (V) | Theoretical | Practical |
-|------|---------|---------|-----------------------------|--------------|------------|
-| 1 | | | | | |
-| 2 | | | | | |
-| 3 | | | | | |
-
+![WhatsApp Image 2025-11-20 at 23 05 20_ec185b9f](https://github.com/user-attachments/assets/628998bb-91f3-467b-95b1-f215ee5d07cd)
 ---
 ## OUT PUT WAVEFORM AND DISCUSSION 
 
+![WhatsApp Image 2025-11-20 at 23 05 48_3b2f880a](https://github.com/user-attachments/assets/daa2e2a9-02c3-4a90-a4a4-4fe0b950d6bb)
 
 ---
 ## INSTRUMENTATION AMPLIFIER
 
-THEORY:
+## THEORY:
 
 An instrumentation amplifier is the intermediate stage of a instrumentation system. The signal source of the instrumentation amplifier is the output of the transducer. Many transducers output do not have the ability or sufficient strength to drive the next following stages. Therefore, instrumentation amplifiers are used to amplify the low-level output signal of the transducer so that it can drive the following stages such as indicator or displays.
 The major requirements of a instrumentation amplifier are precise, low-level signal amplification where low-noise, low thermal and time drifts, high input resistance & accurate closed-loop gain, low power consumption, high CMRR & high slew rate for superior performance.
 The output of Instumentation amplifier is given by
 Vo = RF/R1[1+ 2R’/R][V2-V1]
+
  
-
 ## CIRCUIT DIAGRAM: INSTRUMENTATION AMPLIFIER
-
 <img width="1006" height="1087" alt="image" src="https://github.com/user-attachments/assets/636c08f9-7940-470e-a89e-4891d57a9ac7" />
 
-PROCEDURE:
+## PROCEDURE:
 
 1.	Select the entire resistor with the same value. Let R be the gain varying resistor with different values of resistance for simplicity let R be a constant value.
 2.	Connect the circuit as shown in the circuit diagram.
@@ -225,15 +211,12 @@ PROCEDURE:
 
 ## TABULATION (Instrumentation Amplifier)
 
-| S.No | V1 (V) | V2 (V) | Vo = (Rf / R1) [1 + (2R’ / R)] (V2 – V1) (V) | Theoretical | Practical |
-|------|---------|---------|----------------------------------------------|--------------|------------|
-| 1 | | | | | |
-| 2 | | | | | |
-| 3 | | | | | |
+![WhatsApp Image 2025-11-20 at 23 06 34_60072f07](https://github.com/user-attachments/assets/24c5e4dd-ec26-4605-8938-25d63a4db7c3)
 
 ---
-## OUT PUT WAVEFORM AND DISCUSSION 
 
+## OUT PUT WAVEFORM AND DISCUSSION 
+![WhatsApp Image 2025-11-20 at 23 07 13_3909ab09](https://github.com/user-attachments/assets/a2a9f96d-288d-4f1a-88eb-48465a3a369c)
 
 ---
 ## RESULT
